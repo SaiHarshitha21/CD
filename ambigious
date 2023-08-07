@@ -35,5 +35,7 @@ int main() {
 }
 **************************************************************************************************************************************************
 output
-Input: id+id*id
+Input: S -> (L) | a, L -> LS | S
 The grammar is not ambiguous for the given input.
+Input: aS |Sa| Є
+The grammar is ambiguous for the given input.
